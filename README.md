@@ -58,7 +58,7 @@ Currently studying at **[HEIG-VD](https://www.heig-vd.ch/)** (Haute Ecole d'Ing√
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasreymond&theme=tokyonight&background=0D1117)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolasreymond&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
