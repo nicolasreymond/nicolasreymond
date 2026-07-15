@@ -64,7 +64,7 @@ Currently studying at **[HEIG-VD](https://www.heig-vd.ch/)** (Haute Ecole d'Ing√
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasreymond&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://stats.owl-nest.ch/api?username=nicolasreymond&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
   ![Top Languages](https://stats.owl-nest.ch/api/top-langs/?username=nicolasreymond&layout=compact&theme=github_dark&hide_border=true)
   
 </div>
